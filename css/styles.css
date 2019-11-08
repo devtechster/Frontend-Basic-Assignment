@@ -1,0 +1,23 @@
+.bg-dark{
+    background-color: cadetblue !important;
+    border-bottom: 2px solid coral;
+}
+
+.navbar-brand img{
+        height: 10vh;
+        width: 10vw;
+}
+
+.navbar-nav{
+    margin-right: 8vw;
+}
+
+.nav-item a.nav_link:hover{
+    color: #4444 !important;
+    border-bottom: 1px solid coral;
+}
+
+.img-fluid
+{
+    max-width:   200px !important;
+}
